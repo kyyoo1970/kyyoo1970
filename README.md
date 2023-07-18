@@ -1,4 +1,7 @@
-### Hi there 👋
+## 방학 중 공부 리스트 👋
+
+* **Data-Driven Science and Engineering**, 2nd Ed., Steven L. Brunton and J. Nathan Kutz 🌱
+* **텐서플로 케라스를 이용한 딥러닝**, 3판, 박유성 🔭
 
 <!--
 **kyyoo1970/kyyoo1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
