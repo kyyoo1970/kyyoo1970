@@ -1,6 +1,7 @@
 ## 공부 목록 👋
 
-* **팀 개발을 위한 Git, GitHub 시작하기**, 개정판, 정호영, 진유림 (완료)
+* **팀 개발을 위한 Git, GitHub 시작하기**, 개정판, 정호영, 진유림 - (완료)
+* **파이썬 코딩의 기술(Effective Python)**, 개정2판, 브렛 슬라킨(오현석 옮김) - (Better Way 3/90)
 * **Data-Driven Science and Engineering**, 2nd Ed., Steven L. Brunton and J. Nathan Kutz 🌱
 * **텐서플로 케라스를 이용한 딥러닝**, 3판, 박유성 🔭
 
